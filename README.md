@@ -1,2 +1,2 @@
 # leetcode-csharp-solutions
-Solving LeetCode problems for fun and practice :) using C#
+Solving [LeetCode](www.leetcode.com) problems for fun and practice :) using C# 🚀
